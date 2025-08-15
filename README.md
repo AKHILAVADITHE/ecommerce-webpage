@@ -1,4 +1,4 @@
-# TechMart - Full-Stack Ecommerce Website
+# VoltAura - Full-Stack Ecommerce Website
 
 A modern, beautiful, and fully functional ecommerce website for electronics and gadgets built with Node.js, Express, MongoDB, and vanilla JavaScript.
 
@@ -292,10 +292,11 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For support and questions:
-- Email: support@techmart.com
+- Email: support@voltaura.com
 - Phone: +91 98765 43210
-- Website: https://techmart.com
+- Website: https://voltaura.com
 
 ---
 
-**TechMart** - Your trusted source for premium electronics and gadgets! 🚀 
+
+**VoltAura** - Your trusted source for premium electronics and gadgets! 🚀 
